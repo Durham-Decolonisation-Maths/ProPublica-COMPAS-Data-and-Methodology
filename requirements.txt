@@ -1,0 +1,10 @@
+#
+# Requirements for intersectional_subgroups.ipynb and feedback_loops.ipynb.
+# (Compas Analysis.ipynb and the other original ProPublica notebook need R
+# and rpy2 separately -- these two new notebooks are plain Python and don't.)
+#
+jupyter
+matplotlib
+numpy
+pandas
+statsmodels
